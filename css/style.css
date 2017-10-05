@@ -5,6 +5,9 @@ body{
 	background-repeat: no-repeat;
 	font-family: "Calibri", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 }
+body.principal{
+	background: white;
+}
 p{
 	color:white;
 }
