@@ -76,3 +76,17 @@ placeholder{
 	color:white;
 }
 
+/*Edicion de Martin (solo con motivos de localizacion XD)*/
+p.login{
+	font-size: 15;
+	font-size: 1.5rem;    
+    line-height: 1.333333334;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.two-columns{
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
